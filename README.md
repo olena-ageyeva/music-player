@@ -1,4 +1,4 @@
-"# music-player"
+# Music-player
 
 [Live Demo](https://olena-ageyeva.github.io/music-player/)
 
